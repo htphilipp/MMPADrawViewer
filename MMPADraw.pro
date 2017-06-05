@@ -3,6 +3,7 @@
 # Project created by QtCreator 2017-04-11T14:01:16
 #
 #-------------------------------------------------
+# This is a github test
 
 QT       += core gui
 
